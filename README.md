@@ -1,5 +1,4 @@
-### Hi there 👋, 
-    I'm Jannat ✨
+### Hi there 👋, I'm Jannat ✨
 
 <!--
 **Jannat08/Jannat08** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
