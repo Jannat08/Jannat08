@@ -5,7 +5,7 @@
 
 - 📫 How to reach me **jannatulferdous0898@gmail.com**
 
-- ⚡ Fun fact **Loading....😅**
+- ⚡ Fun fact: **Loading....😅**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
