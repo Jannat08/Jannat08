@@ -1,5 +1,5 @@
 <h1 align="center">Hi 🙋‍♀️, I'm Jannat ✨</h1>
-⚡️I am a student and currently studying CSE in BUBT
+- 👩‍🎓 I am a student and currently studying CSE in BUBT
 
 - 🌱 I’m currently learning **C++**
 
